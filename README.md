@@ -135,24 +135,9 @@ My goal is to build a strong foundation in web development and become a skilled 
 
 ---
 
-# 💻 My First HTML Program
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First Website</title>
-</head>
-<body>
 
-    <h1>Hello World! 🌍</h1>
-    <p>Welcome to my HTML learning journey.</p>
 
-</body>
-</html>
-```
 
 ---
 
