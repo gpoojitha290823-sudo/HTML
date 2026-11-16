@@ -21,8 +21,8 @@ My goal is to build a strong foundation in web development and become a skilled 
 
 ## 1️⃣ HTML Tutorial
 
-- [ ] HTML Home
-- [ ] HTML Introduction
+- [ ✅] HTML Home
+- [ ✅] HTML Introduction
 - [ ] HTML Editors
 - [ ] HTML Basic
 - [ ] HTML Elements
