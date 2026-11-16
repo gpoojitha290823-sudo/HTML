@@ -21,14 +21,13 @@ My goal is to build a strong foundation in web development and become a skilled 
 
 ## 1️⃣ HTML Tutorial
 
-- [ ✅] HTML Home
 - [ ✅] HTML Introduction
-- [ ] HTML Editors
-- [ ] HTML Basic
-- [ ] HTML Elements
-- [ ] HTML Attributes
-- [ ] HTML Headings
-- [ ] HTML Paragraphs
+- [ ✅] HTML Editors
+- [ ✅] HTML Basic
+- [ ✅] HTML Elements
+- [ ✅] HTML Attributes
+- [ ✅] HTML Headings
+- [ ✅] HTML Paragraphs
 - [ ] HTML Styles
 - [ ] HTML Formatting
 - [ ] HTML Quotations
