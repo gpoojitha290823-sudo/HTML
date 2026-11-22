@@ -32,6 +32,7 @@ My goal is to build a strong foundation in web development and become a skilled 
 - [✅] HTML Formatting
 - [✅] HTML Quotations
 - [✅] HTML Comments
+- [✅] HTML Project
 - [✅] HTML Colors
 - [ ] HTML CSS
 - [ ] HTML Links
